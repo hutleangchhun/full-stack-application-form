@@ -9,7 +9,7 @@ A full-stack web application built with React (Vite) for the frontend and Node.j
 
 - Frontend: React.js + Vite + Tailwind CSS
 - Backend: Node.js + Express + (MySQL)
-- RESTful API
+- RESTful API (MVC)
 - CRUD operations (User)
 - Sending message to Email and Telegram (Bot Father)
 - Languages (English, Khmer) : using (react-i18next)
