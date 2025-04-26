@@ -1,0 +1,19 @@
+{
+    "update_user": "Update User",
+    "create_user": "Create User",
+    "list_user": "List All Users",
+    "greeting": "Sending Us a Message",
+    "detail": "Please fill in the form below to get in touch with us.",
+    "name": "Name",
+    "email": "Email",
+    "age": "Age",
+    "password": "Password",
+    "message": "Message",
+    "checkbox": "I've read and agree with Terms of Service and Privacy Policy.",
+    "accept": "Please accept the terms before submitting.",
+    "send": "Send",
+    "create": "Create",
+    "update": "Update",
+    "form_submitted": "Form submitted!",
+    "form_failed": "Failed to send email."
+}
